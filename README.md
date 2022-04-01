@@ -4,7 +4,7 @@
 
 # Usage
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sQgpqx9x1bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![NiFi processor config resizer](http://img.youtube.com/vi/sQgpqx9x1bs/0.jpg)](https://youtu.be/sQgpqx9x1bs?t=0s)
 
 원래는 아래처럼 사이즈가 고정되어 조절이 불가능함
 
