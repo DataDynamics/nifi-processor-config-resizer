@@ -1,0 +1,10 @@
+{
+  "ext_name": {
+    "message": "NiFiExtension",
+    "description": "extension name"
+  },
+  "ext_desc": {
+    "message": "NiFi Processor Configuration Window Resizer",
+    "description": "extension description"
+  }
+}
