@@ -2,6 +2,10 @@
 
 문서작성시 properties 화면을 capture 할 일이 많은데 창이 작아서 capture 가 한 화면에 안되어 자잘한 작업이 많아지는 이유로 개발하게 되었음
 
+# Known Issue
+
+알 수 없는 이유로 사이즈 조절시 바로 안그려지긴 하지만 다른 항목 클릭 등의 어떤 액션 취해주면 제대로 그려짐
+
 # Usage
 
 [![NiFi processor config resizer](http://img.youtube.com/vi/sQgpqx9x1bs/0.jpg)](https://youtu.be/sQgpqx9x1bs?t=0s)
@@ -21,3 +25,21 @@ APPLY 버튼 우측 아래에 마우스를 가져다 대면 위아래로 크기 
 크기 증가한 모습
 
 ![Resized Configure Processor](./screenshots/img03.png)
+
+# Installation
+
+[chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions) 에서 `nifiextension` 검색
+
+![Search](screenshots/img04.png)
+
+extension 선택
+
+![Installation](screenshots/img05.png)
+
+Chrome에 추가
+
+![Add Chrome](screenshots/img06.png)
+
+확장 프로그램 추가
+
+![Add Extension](screenshots/img07.png)
