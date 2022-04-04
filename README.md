@@ -30,7 +30,9 @@ APPLY 버튼 우측 아래에 마우스를 가져다 대면 위아래로 크기 
 
 [Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole)
 
-가입 후 각종 정보를 입력
+가입 후 각종 정보를 입력하고 제출하면 상태가 검토 대기 중으로 바뀜
+
+![reviewing](screenshots/img10.png)
 
 2022-04-01 에 등록하여 검토 대기 중이었다가 2022-04-04 에 게시되었음
 
