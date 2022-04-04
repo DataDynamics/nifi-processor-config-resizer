@@ -32,6 +32,16 @@ APPLY 버튼 우측 아래에 마우스를 가져다 대면 위아래로 크기 
 
 가입 후 각종 정보를 입력
 
+2022-04-01 에 등록하여 검토 대기 중이었다가 2022-04-04 에 게시되었음
+
+게시되면 메일로 알려줌
+
+![Completed publish](screenshots/img08.png)
+
+개발자 dashboard 에서 확인한 모습
+
+![Completed publish in DevConsole](screenshots/img09.png)
+
 # Installation
 
 [chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions) 에서 `nifiextension` 검색
