@@ -26,6 +26,12 @@ APPLY 버튼 우측 아래에 마우스를 가져다 대면 위아래로 크기 
 
 ![Resized Configure Processor](./screenshots/img03.png)
 
+# Chrome Extension publish
+
+[Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole)
+
+가입 후 각종 정보를 입력
+
 # Installation
 
 [chrome 웹 스토어](https://chrome.google.com/webstore/category/extensions) 에서 `nifiextension` 검색
@@ -43,3 +49,9 @@ Chrome에 추가
 확장 프로그램 추가
 
 ![Add Extension](screenshots/img07.png)
+
+# References
+
+* https://developer.chrome.com/docs/extensions/mv3/getstarted/
+* https://support.google.com/chrome/a/answer/2714278?hl=ko
+* https://chrome.google.com/webstore/devconsole
